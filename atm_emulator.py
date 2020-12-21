@@ -101,7 +101,7 @@ while count < 3:
 
     else:
         print('----------------------')
-        print('PIN CODE HAS 4 DIGITS')
+        print('PIN CODE HAS ONLY DIGITS')
         print('----------------------')
         count = count + 1
 
