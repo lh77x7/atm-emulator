@@ -1,1 +1,1 @@
-# atm_emulator
+# atm-emulator
